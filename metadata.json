@@ -1,0 +1,6 @@
+{
+  "name": "MFD-Fab Lucknow | Mutual Fund Distributor & Wealth Planning",
+  "description": "AMFI-registered Mutual Fund Distributor (ARN: 365660) in Gurugram specializing in goal-based SIPs, retirement wealth, and allied insurance protection (Health, Motor, Term).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
